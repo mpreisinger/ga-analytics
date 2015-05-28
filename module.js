@@ -103,6 +103,7 @@ module.exports = function(settings, final_callback) {
 			"filters": settings.filter,
 			'dimensions': settings.dimensions,
 			"max-results": settings.max,
+			"segment": settings.segment,
 			sort: settings.sort,
 			auth: oauth2Client
 		}), function(err, r) {

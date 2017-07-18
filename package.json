@@ -1,6 +1,6 @@
 {
   "name": "ga-analytics",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Access Google Analytics reports via the command-line or node module",
   "main": "module.js",
   "bin": {
